@@ -8,4 +8,9 @@ Los carros tienen motores
 El sol puede mover carros
 La casa de la energia solar son los paneles 
 Si en tu casa pones paneles ahorrarás dinero
+Los eclipses cubren al sol 
+Los eclipses son oscuros
+Con eclipses no hay energia solar 
+
+
 Fin.
